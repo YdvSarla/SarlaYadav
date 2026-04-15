@@ -1,8 +1,6 @@
-# SarlaYadav
-A portfolio project showcasing my web development skills using modern technologies, clean coding practices, and real-world problem solving. This repository demonstrates hands-on experience in building scalable and maintainable applications.
 # Sarla Yadav — Software Developer
 
-> 🌐 **Live Portfolio:** [ydvsarla.github.io/sarla-portfolio](https://YdvSarla.github.io/sarla-portfolio/)
+> 🌐 **Live Portfolio:** [ydvsarla.github.io/sarlayadav](https://YdvSarla.github.io/SarlaYadav/)
 
 ---
 
